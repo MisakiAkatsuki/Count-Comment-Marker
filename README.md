@@ -1,4 +1,4 @@
-﻿# Count Comment Marker
+# Count Comment Marker
 (C) あかつきみさき(みくちぃP)
 
 ## このスクリプトについて
